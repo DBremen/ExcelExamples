@@ -1,2 +1,2 @@
-# ExcelExamples
-Some Excel Examples for my blog
+# Excel Examples
+Some Excel Examples for my blog (powershellone.wordpress.com/)
